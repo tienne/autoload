@@ -1,0 +1,13 @@
+{
+    "name": "tienne/autoload",
+    "require": {
+        "monolog/monolog": "^1.23",
+        "guzzle/guzzle": "^3.9"
+    },
+    "authors": [
+        {
+            "name": "DavidKwon",
+            "email": "tienne89@gmail.com"
+        }
+    ]
+}
